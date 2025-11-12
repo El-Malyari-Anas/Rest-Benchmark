@@ -929,9 +929,8 @@ POST.</td>
 </tbody>
 </table>
 
-> ![](media/image1.png){width="6.5in" height="1.6166666666666667in"}
->
-> ![](media/image2.png){width="6.5in" height="1.2854166666666667in"}
+><img width="1113" height="271" alt="image" src="https://github.com/user-attachments/assets/5c64cc39-7613-4954-90fb-dd36e0285e9b" />
+><img width="1099" height="177" alt="image" src="https://github.com/user-attachments/assets/b8d122c9-dee5-4161-bceb-5d7d69ba820b" />
 >
 > **T7 --- Synthèse & conclusion**
 
@@ -1002,14 +1001,15 @@ POST.</td>
 </tbody>
 </table>
 
-![](media/image3.png){width="6.5in" height="1.929861111111111in"}
+<img width="1137" height="336" alt="image" src="https://github.com/user-attachments/assets/4fdd7056-a418-4be5-a2dc-ce1bb0ec8531" />
 
-![](media/image4.png){width="6.5in" height="3.2263888888888888in"}
+<img width="1136" height="565" alt="image" src="https://github.com/user-attachments/assets/59fae104-8dc8-4298-9e0d-32bd9d7d6d90" />
 
-![](media/image5.png){width="6.5in" height="3.222916666666667in"}
+<img width="1138" height="565" alt="image" src="https://github.com/user-attachments/assets/55426771-40f6-4ed9-bf22-df8cb7e96c80" />
 
-![](media/image6.png){width="6.5in" height="3.2159722222222222in"}
+<img width="1137" height="561" alt="image" src="https://github.com/user-attachments/assets/453ee0bc-5da9-46a0-b7f4-643fe9285fa9" />
 
-![](media/image7.png){width="6.5in" height="2.3513888888888888in"}
+<img width="1137" height="410" alt="image" src="https://github.com/user-attachments/assets/fa9425b5-40a4-4645-bd58-f7dcf0a090c1" />
 
-![](media/image8.png){width="6.5in" height="3.154861111111111in"}
+<img width="1139" height="551" alt="image" src="https://github.com/user-attachments/assets/5cade99f-5b29-4bec-96f4-d2dd199b28b7" />
+
