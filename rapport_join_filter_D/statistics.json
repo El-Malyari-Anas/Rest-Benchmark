@@ -1,0 +1,50 @@
+{
+  "GET /items/{id}" : {
+    "transaction" : "GET /items/{id}",
+    "sampleCount" : 10397,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 1447.5387130903166,
+    "medianResTime" : 1484.0,
+    "minResTime" : 6.0,
+    "maxResTime" : 6439.0,
+    "pct1ResTime" : 1993.2000000000007,
+    "pct2ResTime" : 2221.0,
+    "pct3ResTime" : 3298.1600000000035,
+    "throughput" : 21.594867246711544,
+    "receivedKBytesPerSec" : 15.717914580118267,
+    "sentKBytesPerSec" : 3.2030540889425225
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 34685,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 1561.2200951419775,
+    "medianResTime" : 1632.0,
+    "minResTime" : 6.0,
+    "maxResTime" : 6812.0,
+    "pct1ResTime" : 2128.0,
+    "pct2ResTime" : 2354.9500000000007,
+    "pct3ResTime" : 3391.9400000000096,
+    "throughput" : 72.00046498786672,
+    "receivedKBytesPerSec" : 542.7667854911331,
+    "sentKBytesPerSec" : 12.941423043210659
+  },
+  "GET /items/search/byCategoryJoin (JOIN-fetch)" : {
+    "transaction" : "GET /items/search/byCategoryJoin (JOIN-fetch)",
+    "sampleCount" : 24288,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 1609.8838521080427,
+    "medianResTime" : 1671.0,
+    "minResTime" : 30.0,
+    "maxResTime" : 6812.0,
+    "pct1ResTime" : 2190.0,
+    "pct2ResTime" : 2388.0,
+    "pct3ResTime" : 3407.9400000000096,
+    "throughput" : 50.41797012037789,
+    "receivedKBytesPerSec" : 527.0578761990563,
+    "sentKBytesPerSec" : 9.74020408478348
+  }
+}
